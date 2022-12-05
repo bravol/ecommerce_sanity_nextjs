@@ -1,0 +1,30 @@
+.home {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  display: flex;
+}
+
+.item-container {
+  display: flex;
+  color: white;
+  background-color: #2b2727;
+  margin-top: 50px;
+  position: absolute;
+  width: 100%;
+  margin-left: -10px;
+}
+
+.item-container p {
+  margin: 10px;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+}
+
+.home-row {
+  display: flex;
+  z-index: 1;
+  margin-left: 5px;
+  margin-right: 5px;
+}

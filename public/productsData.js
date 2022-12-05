@@ -1,0 +1,16 @@
+export const headerItems = [
+  "All",
+  "Vehicles",
+  "Property",
+  "Mobile Phones",
+  "Electronic",
+  "Fashion",
+  "Furniture & Appliances",
+  "Health and Beauty",
+  "Art and Sports",
+  "Computers",
+  "Home & Kitchen",
+  "Jobs",
+  "Services",
+  "Seeking work CVs",
+];
